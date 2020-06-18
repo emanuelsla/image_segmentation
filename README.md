@@ -6,7 +6,7 @@ It will train a model based on existing data sets for autonomus driving. Afterwa
 ## Contents
 
 ### Setup
-
+Since a large amount of data is required, external computation on gpu is required. Therefore, this project is created in [google colab](https://colab.research.google.com/notebooks/intro.ipynb).
 
 ### Preprocessing
 This repository uses the [udacity data set for autonomus driving](https://github.com/udacity/self-driving-car). 
