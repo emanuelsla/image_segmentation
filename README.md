@@ -13,7 +13,7 @@ This repository uses the [udacity data set for autonomus driving](https://github
 
 The first preprocessing step is to rearrange the folder structure as follows:
 
-'''
+```
 data_folder
 |
 |-> image_folder
@@ -23,7 +23,7 @@ data_folder
 |-> label_folder
     |
     |-> label.csv
-'''
+```
 
 These data are saved locally.
 
